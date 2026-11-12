@@ -1,0 +1,298 @@
+{
+  "schema": "gary_v5_priorities_p3_v1",
+  "provenance": "Décision explicite du propriétaire, cahier des charges P3, section 2 ; ordre de recherche, pas hiérarchie clinique ou juridique.",
+  "modules": {
+    "DIAG": [
+      {
+        "id": "p3-diag-1",
+        "title": "eBMFrance / EBM Guidelines",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-diag-2",
+        "title": "HAS",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-diag-3",
+        "title": "Sociétés savantes françaises",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-diag-4",
+        "title": "NICE",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-diag-5",
+        "title": "PubMed / Cochrane",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      }
+    ],
+    "PATH": [
+      {
+        "id": "p3-path-1",
+        "title": "eBMFrance / EBM Guidelines",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-path-2",
+        "title": "HAS",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-path-3",
+        "title": "Sociétés savantes françaises",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-path-4",
+        "title": "NICE",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-path-5",
+        "title": "PubMed / Cochrane",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      }
+    ],
+    "TTT": [
+      {
+        "id": "p3-ttt-1",
+        "title": "VIDAL — accès autorisé requis",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-ttt-2",
+        "title": "RCP officiel / Base publique des médicaments / ANSM",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-ttt-3",
+        "title": "HAS",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-ttt-4",
+        "title": "CRAT selon le contexte",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      }
+    ],
+    "SUIVI": [
+      {
+        "id": "p3-suivi-1",
+        "title": "HAS",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-suivi-2",
+        "title": "Sociétés savantes françaises",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-suivi-3",
+        "title": "eBMFrance — si accessible",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-suivi-4",
+        "title": "PubMed",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-suivi-5",
+        "title": "Assurance Maladie",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-suivi-6",
+        "title": "NICE",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      }
+    ],
+    "PED": [
+      {
+        "id": "p3-ped-1",
+        "title": "Pédiadoc",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-ped-2",
+        "title": "Société française de pédiatrie",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-ped-3",
+        "title": "AFPA",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-ped-4",
+        "title": "HAS",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-ped-5",
+        "title": "eBMFrance / EBM Guidelines",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-ped-6",
+        "title": "PubMed / NICE",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      }
+    ],
+    "PREG": [
+      {
+        "id": "p3-preg-1",
+        "title": "Gestaclic",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-preg-2",
+        "title": "CNGOF",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-preg-3",
+        "title": "HAS",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-preg-4",
+        "title": "CNSF",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-preg-5",
+        "title": "eBMFrance / EBM Guidelines",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-preg-6",
+        "title": "NICE",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-preg-7",
+        "title": "PubMed",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      }
+    ],
+    "ADM": [
+      {
+        "id": "p3-adm-1",
+        "title": "ameli / Assurance Maladie",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-adm-2",
+        "title": "Forum ameli",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-adm-3",
+        "title": "Service-Public, Ordre, ministères, URSSAF, HAS",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-adm-4",
+        "title": "Légifrance",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-adm-5",
+        "title": "Jurisprudence",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-adm-6",
+        "title": "Journal officiel",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      }
+    ],
+    "FICH": [
+      {
+        "id": "p3-fich-1",
+        "title": "HAS",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-fich-2",
+        "title": "ameli — informations patients",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-fich-3",
+        "title": "Sociétés savantes françaises",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-fich-4",
+        "title": "Santé publique France",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-fich-5",
+        "title": "eBMFrance / EBM Guidelines",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      },
+      {
+        "id": "p3-fich-6",
+        "title": "NICE",
+        "url": null,
+        "provenance": "USER_SPECIFICATION_P3"
+      }
+    ]
+  },
+  "conditional_preferences": {
+    "PED": "Vaccination : calendrier officiel français prioritaire.",
+    "PREG": "Sécurité médicamenteuse grossesse/allaitement : CRAT prioritaire selon le contexte.",
+    "TTT": "CRAT selon le contexte ; accès VIDAL exclusivement autorisé.",
+    "SUIVI": "Références spécialisées selon vaccination, diabète, maladie rénale chronique, risque cardiovasculaire et dépistages ; aucune liste de liens inventée."
+  }
+}

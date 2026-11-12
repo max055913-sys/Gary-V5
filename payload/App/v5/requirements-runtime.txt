@@ -1,0 +1,1 @@
+# Python 3.14 : bibliothèque standard uniquement. Aucun paquet tiers requis.

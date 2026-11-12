@@ -21,3 +21,10 @@ FICH — Fiches patients : génère des fiches d'information et de recommandatio
 
  Il intègre un outil de bibliothèque d'URL pour priorité documentaire, un système de cache pour réutilisation des réponses, un outil de génération en PDF de fiches à destination des patients.
 Reviens à environ 10 cts d'euros la recherche.
+
+
+## Installation et utilisation clinique
+
+Le dépôt contient les sources de Gary V5. La distribution Windows 11 x64 utilise un installateur et des runtimes privés. Voir la [construction Windows](docs/CONSTRUCTION_WINDOWS.md), les [dépendances](docs/DEPENDANCES.md) et le [guide d’installation](payload/App/v5/INSTALLATION_AUTONOME.md).
+
+Gary ne fournit aucun identifiant professionnel et le dépôt ne redistribue aucun contenu médical tiers. Le coût mentionné ci-dessus est indicatif et dépend de la consommation. Gary ne se substitue pas au jugement clinique du médecin. Vérifiez les informations déterminantes avant leur application à un patient.

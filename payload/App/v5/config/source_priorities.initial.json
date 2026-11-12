@@ -1,0 +1,65 @@
+{
+  "schema": "gary_v5_sources_v1",
+  "policy": "Références identifiées seulement ; ordre de présentation documentaire, aucune hiérarchie clinique inférée. Aucune URL d’accès vérifiée.",
+  "modules": {
+    "DIAG": {
+      "sources": [],
+      "notes": "Aucune priorité propre à DIAG retrouvée. Les préférences globales ne sont pas dupliquées."
+    },
+    "PATH": {
+      "sources": [],
+      "notes": "Aucune priorité propre à PATH retrouvée."
+    },
+    "TTT": {
+      "sources": [
+        {
+          "id": "initial-ttt-rcp",
+          "title": "RCP original",
+          "url": null,
+          "provenance": "Cahier des charges utilisateur du 20 octobre 2026, section 7.4 TTT : RCP original ; URL et rang non spécifiés."
+        },
+        {
+          "id": "initial-ttt-vidal",
+          "title": "VIDAL",
+          "url": null,
+          "provenance": "Cahier des charges utilisateur du 20 octobre 2026, section 7.4 : intégration VIDAL autorisée nécessaire ; aucune priorité relative ni URL spécifiée."
+        }
+      ],
+      "notes": "Références identifiées, pas de classement médical démontré. Ordre documentaire uniquement. URL à renseigner ; accès VIDAL soumis à autorisation."
+    },
+    "SUIVI": {
+      "sources": [],
+      "notes": "Surveillance et vaccination spécifiées, mais aucune liste de références priorisées propre à SUIVI retrouvée."
+    },
+    "PED": {
+      "sources": [
+        {
+          "id": "initial-ped-calendrier",
+          "title": "Calendrier vaccinal français",
+          "url": null,
+          "provenance": "config/modes.json, entrée PED, rubrique VACCINATIONS : calendrier vaccinal français. URL non spécifiée."
+        }
+      ],
+      "notes": "Référence explicite du mode PED historique ; pas de liste exhaustive ni de rang médical validé. L’ordre des rubriques médicales n’est pas modifié."
+    },
+    "PREG": {
+      "sources": [
+        {
+          "id": "initial-preg-crat",
+          "title": "CRAT",
+          "url": null,
+          "provenance": "Cahier des charges utilisateur du 20 octobre 2026, section 7.7 PREG : conserver les règles métier concernant le CRAT et les médicaments ; URL et rang non spécifiés."
+        }
+      ],
+      "notes": "Référence identifiée ; aucune URL ni hiérarchie relative spécifiée."
+    },
+    "ADM": {
+      "sources": [],
+      "notes": "Aucune priorité documentaire propre à ADM retrouvée."
+    },
+    "FICH": {
+      "sources": [],
+      "notes": "Sources en bas des fiches demandées, mais aucune liste prioritaire propre à FICH retrouvée."
+    }
+  }
+}
